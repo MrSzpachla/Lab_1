@@ -6,6 +6,6 @@ public class Main {
         System.out.println("HEJ!");
         System.out.println("Langusta" + " " + "żywi się wyłącznie owocami morza,");
         System.out.printf("choć %s mogła, \n", "gdyby");
-        System.out.print("jadłaby dżem");
+        System.out.print("jadłaby dżem ");
     }
 }
